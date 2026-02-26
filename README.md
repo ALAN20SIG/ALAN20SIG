@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 B.Tech in Artificial Intelligence & Data Science (2022–2026) – MITS, Kochi<br><br>🤖 Passionate about Machine Learning, Predictive Analytics, and AI-driven system design<br><br>📊 Experienced in building scalable ML pipelines, ETL workflows, and real-time intelligent systems<br><br>🧠 Strong in Python, SQL, TensorFlow, PyTorch, and cloud platforms (GCP, AWS, Azure)<br><br>🚀 Built projects in AI robotics, F1 performance analytics, drought prediction (85% accuracy), and IoT safety systems<br><br>🏆 Top 5 Finalist – V-Guard Big Idea 2024 | Winner – Hack for Humanity<br><br>🔍 Interested in real-time analytics, model optimisation, and production-level AI deployment
+<br><br>* 🎓 B.Tech in Artificial Intelligence & Data Science (2022–2026) – MITS, Kochi<br>* 🤖 Passionate about Machine Learning, Predictive Analytics, and AI-driven system design<br>* 📊 Experienced in building scalable ML pipelines, ETL workflows, and real-time intelligent systems<br>* 🧠 Strong in Python, SQL, TensorFlow, PyTorch, and cloud platforms (GCP, AWS, Azure)<br>* 🚀 Built projects in AI robotics, F1 performance analytics, drought prediction (85% accuracy), and IoT safety systems<br>* 🏆 Top 5 Finalist – V-Guard Big Idea 2024 | Winner – Hack for Humanity<br>* 🔍 Interested in real-time analytics, model optimisation, and production-level AI deployment<br>
 
 
 # 💻 Tech Stack:
