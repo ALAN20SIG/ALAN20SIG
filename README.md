@@ -45,11 +45,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=ALAN20SIG&theme=onedark&no-frame=true&margin-w=10&row=1&column=6)
-
----
-
 # ✍️ Random Dev Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
@@ -58,4 +53,4 @@
 
 # 👀 Profile Views
 
-![Visitors](https://visitcount.itsvg.in/api?id=ALAN20SIG&icon=5&color=0)
+![Visitors](https://komarev.com/ghpvc/?username=ALAN20SIG&label=Profile%20views&color=0e75b6&style=flat)
