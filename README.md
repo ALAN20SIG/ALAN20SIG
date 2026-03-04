@@ -10,32 +10,6 @@
 
 ---
 
-# 🚀 Featured Projects
-
-### 🏎️ F1 Track.AI
-AI-powered race analytics and strategy intelligence platform that analyzes Formula 1 telemetry and historical data to generate race strategy insights using predictive models and Monte Carlo simulations.  
-🔗 https://github.com/ALAN20SIG/F1-Track-AI
-
----
-
-### 🧠 MindAI
-AI mental wellness assistant that detects emotions from user text or speech and provides supportive responses, mood insights, and personalized recommendations.  
-🔗 https://github.com/ALAN20SIG/MindAI
-
----
-
-### 🤖 Tinku
-Interactive AI mood analyzer that understands user emotions and recommends movie clips, music, or content through a conversational avatar interface.  
-🔗 https://github.com/ALAN20SIG/Tinku
-
----
-
-### 🌍 Autonomous Air Quality Monitoring System
-AI-powered robotics system for real-time air quality monitoring using multi-sensor data acquisition, sensor fusion, and intelligent navigation algorithms.  
-🔗 https://github.com/ALAN20SIG
-
----
-
 # 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
