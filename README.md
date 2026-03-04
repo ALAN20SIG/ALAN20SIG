@@ -8,9 +8,14 @@
 ![](https://github-readme-stats.vercel.app/api?username=ALAN20SIG&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ALAN20SIG&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ALAN20SIG&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ALAN20SIG&show_icons=true&theme=tokyonight)
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=ALAN20SIG&theme=tokyonight)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ALAN20SIG&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=ALAN20SIG&theme=onedark)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
